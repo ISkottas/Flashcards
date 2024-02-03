@@ -1,0 +1,14 @@
+.cardsList{
+    width: auto;
+    height: 100%;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 25px
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

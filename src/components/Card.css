@@ -1,0 +1,19 @@
+.card{
+    width: 250px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.3);
+    border: none;
+    border-radius: 9px;
+    background-color: #ededed;
+    color: rgb(33, 33, 33);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.chromed{
+    background-color: rgb(132, 136, 15);
+    color: #fff;
+}
